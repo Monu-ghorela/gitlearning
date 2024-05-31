@@ -7,5 +7,6 @@ public class Document2 {
         System.out.println("this is another file  i have used to push in github");
         System.out.println("hello wordld");
         System.out.println("this is the message from master monu");
+        System.out.println("this is the message after clone the repositry");
     }
 }
